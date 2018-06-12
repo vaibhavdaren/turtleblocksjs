@@ -35,7 +35,7 @@ function getAuxToolbarButtonNames(name) {
 
 
 function createDefaultStack() {
-    DATAOBJS = [[0, 'start', 250, 150, [null, null, null]]];
+    DATAOBJS = [[0,["start",{"collapsed":false,"xcor":0,"ycor":-1.8369701987210297e-14,"heading":0,"color":0,"shade":50,"pensize":5,"grey":100}],142.25,71.125,[null,5,null]],[1,["forward",{}],169.25,143.125,[5,2,3]],[2,["number",{"value":100}],247.76708984375,143.125,[1]],[3,["right",{}],169.25,174.625,[1,4,null]],[4,["number",{"value":90}],242.75,174.625,[3]],[5,["repeat",{}],155.75,111.625,[0,6,1,null]],[6,["number",{"value":4}],227.75,111.625,[5]]];
 };
 
 
