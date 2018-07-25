@@ -8,7 +8,7 @@ Conditional Statements |  Functions using Action Blocks| Recursion
 Flow Statements | Lines,Triangles,Polygons| Media Blocks
 Start here | Implement here| Solve Here
 LEVEL 1  | LEVEL 2 | Level 3
-
+Learn to program in turtleblocks with step by step tutorials learning the basics of Logo as well as computing along the way  |  Apply the concepts learned in easy by solve the puzzles along the way with fun filled exercises on shapes, geometry andpolygons |Hard challenges introducing you to advanced programming concepts with challenging mathematical,art and design problems
 
 ----------
 
