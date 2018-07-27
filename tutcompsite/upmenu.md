@@ -27,7 +27,7 @@ Learn to program in turtleblocks with step by step tutorials learning the basics
 **EASY**  |  **MEDIUM**|  **ADVANCED**
 
 -------------
-| ![](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutfrontend/tutcompsite/easy11.PNG)            |    ![](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutfrontend/tutcompsite/medium22.PNG) |![](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutfrontend/tutcompsite/advanced33.PNG)
+| ![](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutfrontend/tutcompsite/easys.PNG)            |    ![](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutfrontend/tutcompsite/mediums.PNG) |![](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutfrontend/tutcompsite/advanceds.PNG)
 :-------------------------:|:-------------------------:|:-------------------------:
 Learn to program in turtleblocks with step by step tutorials learning the basics of Logo as well as computing along the way  |  Apply the concepts learned in easy by solve the puzzles along the way with fun filled exercises on shapes, geometry andpolygons |Hard challenges introducing you to advanced programming concepts with challenging mathematical,art and design problems
 **EASY**  |  **MEDIUM**|  **ADVANCED**
