@@ -1,20 +1,18 @@
 Documentation of Stage:-
-The exercises contain. 4 Levels and each level consists of 12 stages.
-Each of stage is based on a simillar  Design pattern Structure comprising the  following blocks as discussed in this case. 
-
-Each final stage looks like one shown below.
+The challenges contain  4 levels - Beginner, Medium, Advanced and Bonus. Each level consists of 12 stages.
+Each of the stage is based on a simillar design pattern structure comprising of the following blocks as described below along with the final stage representation.
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc1.PNG)
 
-1. The level displays the task to do on top right corner.
-2. Opens the relavant palette to be used
-3. Displays the challenge image to be tarced
+1. The challenges display the to do task on the top right corner.
+2. The challenges open the relavant palette to be used on the left hand side of the canvas
+3. The challenges display the challenge image to be traced
 
 
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc2.PNG)
-On the backend we have the following blocks present on the stage.
-Nameley
+On the backend, we have the following blocks present in every challenge.
+
 1. start-yertle
 2. start
 3. check
@@ -25,20 +23,20 @@ Nameley
 8. process
 9. shado
 
-These  comprise of the logic behind the game level. From drawing the stage to load to verifying the stage to printing the stage complete message with sounds.
+These blocks comprise of the logic behind the game level. From drawing the challenge to loading, to verifying the challenge and to printing the 'Checkpoint Reached' message along with sound.
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc3.PNG)
 
-1. The stage load block sets the turtle to centre of the to be traced shape .Draws the to be traced shape with the help of chi action.  
-2. chi sets the turtle to relavant position and calls the shado action block with draws the required shape in purple color.
-3. Stage load finally sets the pen color to yellow which is the color on which the check logic of the stages work.
+1. The 'Stage Load' block sets the turtle to the centre of the shape to be traced. It draws the to be traced shape with the help of 'chi' action.  
+2.'chi' sets the turtle to relavant position and calls the 'shado' action block which draws the required shape in purple color.
+3. Stage load finally sets the pen color to yellow color which is the color on which the check logic of the challenge works.
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc4.PNG)
 
-1. The other start blocks run concurrently on the other hand and loads the images which contains the relavant artwork of the stage and other sprites.
-2. It also contains the checking logic of the stage. Which is the crux of the project and verifies the shape drawn by the user.
-3. Microop and process checks the shape drawn by the user in pixel by pixel format.
-4. If the image traced is same as the challenge image  global value of flag is set to 1 and Checkpoint Reached message is printed.
+1. The other start block run concurrently and load the images which contain the relavant artwork of the challenge and other sprites.
+2. It also contains the checking logic of the challenge which is the crux of the project and verifies the shape drawn by the user.
+3. 'Microop' and 'process' checks the shape drawn by the user in pixel by pixel format.
+4. If the image traced is same as the challenge image, global value of flag is set to 1 and 'Checkpoint Reached' message is printed along with background sound.
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc5.PNG)
 
