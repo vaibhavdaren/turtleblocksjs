@@ -1,4 +1,4 @@
-Documentaion of Stage:-
+Documentation of Stage:-
 
 Each final stage looks like one shown below.
 
