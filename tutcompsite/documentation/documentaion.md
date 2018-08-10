@@ -1,4 +1,6 @@
 Documentation of Stage:-
+The exercises contain. 4 Levels and each level consists of 12 stages.
+Each of stage is based on a simillar  Design pattern Structure comprising the  following blocks as discussed in this case. 
 
 Each final stage looks like one shown below.
 
