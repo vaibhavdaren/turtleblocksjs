@@ -1,4 +1,6 @@
-Documentation of Stage:-
+<h1>Documentation of Challenge </h1>
+
+--------
 
 The challenges contain  4 levels - Beginner, Medium, Advanced and Bonus. <br>
 Each level consists of 12 stages.<br>
@@ -42,5 +44,5 @@ These blocks comprise of the logic behind the game level. From drawing the chall
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc5.PNG)
 
- 
+ --------
 
