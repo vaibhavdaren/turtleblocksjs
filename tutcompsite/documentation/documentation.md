@@ -1,6 +1,7 @@
 Documentation of Stage:-
 
-The challenges contain  4 levels - Beginner, Medium, Advanced and Bonus. Each level consists of 12 stages.
+The challenges contain  4 levels - Beginner, Medium, Advanced and Bonus. <br>
+Each level consists of 12 stages.<br>
 Each of the stage is based on a similar design pattern structure comprising of the following blocks as described below along with the final stage representation.
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc1.PNG)
