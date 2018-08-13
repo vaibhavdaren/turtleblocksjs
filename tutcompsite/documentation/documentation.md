@@ -3,7 +3,7 @@
 --------
 
 The challenges contain <b> 4 levels - Beginner, Medium, Advanced and Bonus. </b> <br>
-<b>Each level consists of 12 challenges<b>.<br>
+<b>Each level consists of 12 challenges</b>.<br>
 
 Each of the stage is based on a similar design pattern structure comprising of the following blocks as described below along with the final stage representation.The initial design was drafted by my mentor Walter Bender.
 All the other challenges are built taking inspiration from it.
