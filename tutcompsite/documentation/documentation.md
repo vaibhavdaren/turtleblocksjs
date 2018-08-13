@@ -1,10 +1,12 @@
-<h1>Documentation of Challenge </h1>
+<h1>Documentation of Challenges </h1>
 
 --------
 
-The challenges contain  4 levels - Beginner, Medium, Advanced and Bonus. <br>
-Each level consists of 12 stages.<br>
-Each of the stage is based on a similar design pattern structure comprising of the following blocks as described below along with the final stage representation.
+The challenges contain <b> 4 levels - Beginner, Medium, Advanced and Bonus. </b> <br>
+<b>Each level consists of 12 challenges<b>.<br>
+
+Each of the stage is based on a similar design pattern structure comprising of the following blocks as described below along with the final stage representation.The initial design was drafted by my mentor Walter Bender.
+All the other challenges are built taking inspiration from it.
 
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc1.PNG)
 
@@ -45,4 +47,73 @@ These blocks comprise of the logic behind the game level. From drawing the chall
 ![Level](https://github.com/vaibhavdaren/turtleblocksjs/blob/tutorials/tutcompsite/documentation/doc5.PNG)
 
  --------
+The challenges require a lot of artwork i.e. clipart in the form of images .All cliparts are used from the site https://openclipart.org/ .Design UI/UX decisons are done with help of Mentor Jaskirat Singh and P. Seetarama Raju.
+
+<h3>A List of Challenges Level wise:- </h3>
+
+<h4>Beginner</h4>
+ 
+ 1.  The forward Block	
+ 2.  Right
+ 3.  Other Side
+ 4.  North West
+ 5.  The SetXY Block
+ 6.  The Box Palette
+ 7.  The Pen Color Block	
+ 8.  The Background Block	
+ 9.  The If Else Block
+ 10.  The Square: Repeat Block	
+ 11.  Fill Square	
+ 12.  Last-Easy Hut
+ 
+<h4>Medium</h4>
+
+ 1. The Triangle	
+ 2. The Mirror Image	
+ 3. The Pentagon
+ 4. Print Name	
+ 5. Show Name	
+ 6. Diagonals of Square
+ 7. The Steps	
+ 8. The Parallelogram	
+ 9. The Hexagon
+ 10. Circle	
+ 11. Star	
+ 12. Dotted Line Square
+ 
+
+<h4>Advanced</h4>
+
+ 1. The Complex Star
+ 2. Angle Bisector	
+ 3. 4 Coloured Boxes
+ 4. Wind Mill	
+ 5.  The Square Painting	
+ 6.  Sandwich
+ 7.  Triangular Pattern	
+ 8.  Octagon Flower	
+ 9.  Pentagon Ring
+ 10.  Recursion. tree	
+ 11.  The Rasengan	
+ 12.  Boss 
+
+<h4>Bonus</h4>
+
+ 1. IF ELSE CONDITIONAL	
+ 2. HEAPS PUSH	
+ 3. SUM HEAP
+ 4. TRAVERSE HEAP	
+ 5. TRY YOURSELF.ALGO	
+ 6. ACTION.ARGUMENT PASSING
+ 7. FUNCTION-ALGO 2	
+ 8. EVENTS	
+ 9. MINI-PROJECT
+ 10. DICTIONARY	
+ 11. DICTIONARY:ALGO	
+ 12. Boss :Recursion
+ 
+ 
+<hr>
+The Resources  used to built the challenges can be found on the resources folder of the  repository at 
+https://github.com/vaibhavdaren/turtleblocksjs/tree/tutorials/tutcompsite/documentation/resources
 
